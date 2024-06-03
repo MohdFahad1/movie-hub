@@ -20,7 +20,7 @@ This is a movie/TV series searching web application built using React.js, Materi
 
 ## Live Demo
 
-You can view the live demo of the application [here](#https://movie-hub-eight-iota.vercel.app/).
+You can view the live demo of the application [[here](https://movie-hub-eight-iota.vercel.app/)](#).
 
 ## Installation and Running the Project
 
