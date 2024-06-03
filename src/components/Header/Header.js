@@ -11,7 +11,7 @@ const Header = () => {
       onClick={() => window.scroll(0, 0)}
       className="header"
     >
-      🎬 Entertainment Hub{" "}
+      🎬 Binge Browse{" "}
       <span>
         <UserButton size={100} showName />
       </span>
